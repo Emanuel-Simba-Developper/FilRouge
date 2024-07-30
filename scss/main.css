@@ -11965,4 +11965,16 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+main {
+  position: relative;
+  min-height: 100%;
+  margin-bottom: 250px;
+}
+
+footer.footer {
+  padding: 15px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }/*# sourceMappingURL=main.css.map */
