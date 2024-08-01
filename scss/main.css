@@ -11969,13 +11969,17 @@ textarea.form-control-lg {
 html {
   position: relative;
   min-height: 100%;
+}
+
+main {
+  min-height: 100%;
   margin-bottom: 250px;
 }
 
 footer.footer {
   padding: 15px;
   position: absolute;
-  bottom: 0;
+  bottom: 0%;
   width: 100%;
 }
 
@@ -12007,4 +12011,8 @@ p {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.text-justify {
+  text-align: justify;
 }/*# sourceMappingURL=main.css.map */
